@@ -1,0 +1,52 @@
+@charset "UTF-8";
+main {
+    background-color: #CFB297;
+    width: 900px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+}
+body {
+    background-image: linear-gradient(to right, #17A67D, #F2C335 );
+}
+@font-face {
+    font-family: 'redes';
+    src: url(letra/redemtion.ttf) format('truetype');
+    font: weight normal;
+    font-style: normal;
+}
+h1 {
+    font-family: redes, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 1px white;
+
+}
+h2 {
+    font-family:  redes, helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 1px white;
+}
+a:hover {
+    background-color: #17A67D;
+    text-decoration: underline;
+}
+a:active {
+    color: #17A67D;
+}
+a::after {
+    text-decoration: none;
+    font-weight: normal;
+    color:#F2C335;
+}
+.basico {
+    text-align: right;
+    font-family: redes, Helvetica, sans-serif;
+}
+.voltar {
+    font-family: redes, Helvetica, sans-serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}

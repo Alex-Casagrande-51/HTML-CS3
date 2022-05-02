@@ -1,0 +1,28 @@
+STARTUP
+Conheça sobre nossa startup, em um unico lugar você verar como funciona á empresa.
+
+[MENU]
+Home
+Sobre nós
+Startup
+Contato
+
+Conheça nossa história da empresa
+
+.
+
+
+
+.
+
+[FOTO 1]
+O que é uma startup?
+
+Uma startup, termo da língua inglesa sem tradução oficial para a língua portuguesa, é uma "empresa emergente" que tem como objetivo principal desenvolver ou aprimorar um modelo de negócio, preferencialmente escalável, disruptivo e repetível; o uso do termo 'empresa' têm sido questionado para startups;[2][3][3] divide o processo de criação/amadurecimento da startup em quatro passos, somente no último a startup ganha o nome de empresa, sendo organização o nome preferido nos passos anteriores. Uma startup é uma "empresa" recém-criada ainda em fase de desenvolvimento que é normalmente de base tecnológica, mas pode aparecer em vários setores.[2][3] O termo tornou-se popular internacionalmente durante a bolha da internet quando um grande número de "empresas.com" foram fundadas. Por isso, comumente se relaciona o termo 'startup' com tecnologia, mas qualquer empresa que nasce em qualquer segmento, seja tradicional ou inovador é uma startup (uma potencial "empresa" que nasce); como exemplo de uma startup de um setor geral, nesse caso de educação/ensino, seria a Pearson Education, que começou como startup.
+
+[VIDEO] <iframe width="560" height="315" src="https://www.youtube.com/embed/9vpnrNcAi9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Nosso objetivo!
+
+Nossa finalidade é ajudar nossos clientes a ter facilidade ao mexer com a tecnologia, que vai ajudar no seus dia-dia, muitas das vezes a demanda pode ser extramamente exigida e complexa, com a nossa programção iramos facilitar a sua vida, vai ter uma grande diferença e menos tempo perdido, atendemos com programção em diversas aréas, saúde, academias, escritorios, redes de alimentos etc... não há somente um foco, o nosso foco é ajudar você, idenpendente do disafios estamos aqui para ajudar, facilitar em uso com moblie, web.
