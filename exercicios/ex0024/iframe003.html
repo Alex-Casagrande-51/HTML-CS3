@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navegação no Iframe</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        iframe#tela {
+            width: 80vw;
+            border: 2px solid black;
+            height: 400px;
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Faça uma escolha</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam quidem dicta temporibus est esse vel iusto eveniet, tempora asperiores molestiae. Accusamus dolorem corrupti eaque commodi quos cupiditate placeat eligendi quibusdam.</p>
+    <ul>
+        <li><a href="pagina-externa/pagina01.html" target="frame" >Primeira página</a></li>
+        <li><a href="pagina-externa/pagina02.html" target="frame">Segunda página</a></li>
+        <li><a href="pagina-externa/pagina03.html" target="frame">Terceira página</a></li>
+    </ul>
+    <iframe id="tela" name="frame" src="">
+        <p>Infelizmente seu navegador não é compatível com isso.</p>
+    </iframe>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam obcaecati hic reprehenderit, praesentium sed, pariatur aliquid fugiat repellendus eligendi suscipit temporibus a ea inventore dolor quibusdam ipsa facere! Aliquam, maiores!</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, magni, voluptates consequatur reprehenderit suscipit natus quod nihil veniam pariatur, qui repellat blanditiis ullam. Quas, veritatis perspiciatis inventore cum ab cupiditate.</p>
+</body>
+</html>
